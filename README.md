@@ -1,3 +1,6 @@
+
+# Moved to [spotify/scio-template.g8](https://github.com/spotify/scio-template.g8)
+
 A [Giter8][g8] template for [scio][scio]!
 
 ```
